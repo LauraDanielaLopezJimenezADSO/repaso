@@ -724,7 +724,7 @@ body{
     }
 
     .digital_imagen{
-        width: 70%;
+        width: 60%;
         border-radius: 10px;
         box-shadow: 1px 1px 20px;
     }
@@ -743,6 +743,7 @@ body{
     .solucion_contenedor{
         width: 90%;
         height: 200px;
+        margin: 20px;
     
     }
     
@@ -771,7 +772,7 @@ body{
         width: 100%;
         height: 80vh; /* Ajustar la altura automáticamente */
         
-        margin-right: 10px;
+        /* margin-right: 10px; */
         border-radius: 0px 0px 0px 0px;
     }
     
@@ -856,7 +857,7 @@ body{
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 40px;
         padding-top: 100px;
-        padding-bottom: 100px;
+        padding-bottom: 40px;
         margin: 25px;
     }
     
@@ -879,7 +880,7 @@ body{
     }
     
     .footer_final{
-        padding-bottom: 10px;
+        padding-bottom: 5px;
     }
     
 }
